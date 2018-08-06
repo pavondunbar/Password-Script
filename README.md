@@ -1,1 +1,1 @@
-# Password-Script
+This is a simple Python script I wrote that checks a user's inputted password against one stored in a file system.  The user has 3 tries to type in the correct password before the script locks him out.
